@@ -1,0 +1,9 @@
+{
+  "name": "sybildigitalculture-design--system",
+  "version": "1.0.0",
+  "designTokens": {
+    "colors": "colors.json",
+    "components": "components.json",
+    "typography": "typography.json"
+  }
+}
