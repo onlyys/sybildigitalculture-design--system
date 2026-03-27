@@ -1,0 +1,22 @@
+{
+  "card-main": {
+    "borderRadius": "24px",
+    "padding": "20px",
+    "backgroundColor": "#FFFFFF",
+    "boxShadow": "0 8px 24px rgba(0,0,0,0.05)"
+  },
+  "button-pill": {
+    "borderRadius": "100px",
+    "padding": "12px 24px",
+    "fontWeight": "600"
+  },
+  "tag-status": {
+    "borderRadius": "4px",
+    "padding": "4px 8px",
+    "fontSize": "12px"
+  },
+  "page-spacing": {
+    "horizontal": "16px",
+    "vertical": "24px"
+  }
+}
